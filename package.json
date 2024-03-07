@@ -6,7 +6,5 @@
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-    "http": "^1.0.0"
-  }
+  "dependencies": {}
 }
