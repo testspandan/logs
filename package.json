@@ -1,12 +1,12 @@
 {
-  "name": "your-app-name",
+  "name": "request-logger",
   "version": "1.0.0",
-  "description": "Your app description",
+  "description": "A simple Node.js server for logging requests",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "http": "^1.0.0" // Only include other dependencies here, remove "fs"
+    "http": "^1.0.0"
   }
 }
